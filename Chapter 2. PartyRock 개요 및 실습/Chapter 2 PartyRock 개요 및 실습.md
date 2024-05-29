@@ -6,22 +6,22 @@
     - [https://partyrock.aws/](https://partyrock.aws/)
 - 사이트에서 Sign in 버튼을 클릭합니다.
     
-    ![Untitled](Chapter%202%20PartyRock%20%E1%84%80%E1%85%A2%E1%84%8B%E1%85%AD%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8%204538f405f67e4bc89f378dee8f46bd6d/Untitled.png)
+    ![Untitled](./images/Untitled.png)
     
     - 참고. PartyRock 은 AWS 계정을 필요로 하지 않습니다.
 - 목록에 있는 외부 IdP (Identity Provider) 에서 선택하여 로그인합니다. 여기서는 자신이 가진 google 계정을 사용하도록 하겠습니다.
     - 아래에서 Sing in with Google 버튼을 클릭합니다.
         
-        ![Untitled](Chapter%202%20PartyRock%20%E1%84%80%E1%85%A2%E1%84%8B%E1%85%AD%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8%204538f405f67e4bc89f378dee8f46bd6d/Untitled%201.png)
+        ![Untitled](./images/Untitled 1.png)
         
     - 이어지는 화면에서 Google 계정으로 로그인합니다.
     - 아래 화면에서 계속을 클릭하여 PartyRock 과 Google 계정을 연동합니다.
     
-    ![Untitled](Chapter%202%20PartyRock%20%E1%84%80%E1%85%A2%E1%84%8B%E1%85%AD%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8%204538f405f67e4bc89f378dee8f46bd6d/Untitled%202.png)
+    ![Untitled](./images/Untitled 2.png)
     
     - 아래 화면에서 username 을 적절하게 설정하고 submit 을 클릭합니다.
     
-    ![Untitled](Chapter%202%20PartyRock%20%E1%84%80%E1%85%A2%E1%84%8B%E1%85%AD%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8%204538f405f67e4bc89f378dee8f46bd6d/Untitled%203.png)
+    ![Untitled](./images/Untitled 3.png)
     
 
 ## 실습 1.  간단한 질문
@@ -35,7 +35,7 @@
     
 - 
     
-    ![Untitled](Chapter%202%20PartyRock%20%E1%84%80%E1%85%A2%E1%84%8B%E1%85%AD%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8%204538f405f67e4bc89f378dee8f46bd6d/Untitled%204.png)
+    ![Untitled](./images/Untitled 4.png)
     
 - 각각의 모델의 응답 결과를 확인합니다.
 - 요약
@@ -107,45 +107,45 @@
 - 현재 배치된 widget 은 모두 text model 이므로 먼저 2개의 widget 을 삭제하겠습니다.
 - 이 작업을 위해 아래 그림과 같이 상단의 Remix 클릭합니다.
     
-    ![Untitled](Chapter%202%20PartyRock%20%E1%84%80%E1%85%A2%E1%84%8B%E1%85%AD%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8%204538f405f67e4bc89f378dee8f46bd6d/Untitled%205.png)
+    ![Untitled](./images/Untitled 5.png)
     
 - “**Response 1 using Command” widget 을 삭제하기 위해 아래 그림의 도구 버튼을 클릭합니다.**
     
-    ![Untitled](Chapter%202%20PartyRock%20%E1%84%80%E1%85%A2%E1%84%8B%E1%85%AD%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8%204538f405f67e4bc89f378dee8f46bd6d/Untitled%206.png)
+    ![Untitled](./images/Untitled 6.png)
     
 - 펼쳐진 창에서 Delete widget 버튼을 클릭합니다. > Confirm 버튼을 클릭합니다.
     
-    ![Untitled](Chapter%202%20PartyRock%20%E1%84%80%E1%85%A2%E1%84%8B%E1%85%AD%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8%204538f405f67e4bc89f378dee8f46bd6d/Untitled%207.png)
+    ![Untitled](./images/Untitled 7.png)
     
 - 위와 같이 2번째 widget 도 삭제하면 아래와 같이 보일 것입니다.
     
-    ![Untitled](Chapter%202%20PartyRock%20%E1%84%80%E1%85%A2%E1%84%8B%E1%85%AD%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8%204538f405f67e4bc89f378dee8f46bd6d/Untitled%208.png)
+    ![Untitled](./images/Untitled 8.png)
     
 - 그리드 형태의 점들이 보이는 공간에서 Create widget 을 클릭합니다.
     
-    ![Untitled](Chapter%202%20PartyRock%20%E1%84%80%E1%85%A2%E1%84%8B%E1%85%AD%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8%204538f405f67e4bc89f378dee8f46bd6d/Untitled%209.png)
+    ![Untitled](./images/Untitled 9.png)
     
 - 아래 그림처럼 Image Generation 을 클릭합니다.
     
-    ![Untitled](Chapter%202%20PartyRock%20%E1%84%80%E1%85%A2%E1%84%8B%E1%85%AD%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8%204538f405f67e4bc89f378dee8f46bd6d/Untitled%2010.png)
+    ![Untitled](./images/Untitled 10.png)
     
 - 아래 그림과 같이 Widget title 은 “이미지 생성기1” 로 입력하고 Model 은 Titan Image Generator 로 선택하고 Save 합니다.
     
-    ![Untitled](Chapter%202%20PartyRock%20%E1%84%80%E1%85%A2%E1%84%8B%E1%85%AD%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8%204538f405f67e4bc89f378dee8f46bd6d/Untitled%2011.png)
+    ![Untitled](./images/Untitled 11.png)
     
 - “Response 1 using Jurrasic Mid” widget 을 삭제합니다.
 - 그리드 형태의 점들이 보이는 공간에서 Create widget 을 클릭합니다.
     
-    ![Untitled](Chapter%202%20PartyRock%20%E1%84%80%E1%85%A2%E1%84%8B%E1%85%AD%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8%204538f405f67e4bc89f378dee8f46bd6d/Untitled%2012.png)
+    ![Untitled](./images/Untitled 12.png)
     
 - Image Generation 을 클릭합니다.
 - 아래 그림과 같이 Widget title 은 “이미지 생성기2” 로 입력하고 Model 은 Stable Diffusion 으로 선택하고 Save 합니다.
     
-    ![Untitled](Chapter%202%20PartyRock%20%E1%84%80%E1%85%A2%E1%84%8B%E1%85%AD%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8%204538f405f67e4bc89f378dee8f46bd6d/Untitled%2013.png)
+    ![Untitled](./images/Untitled 13.png)
     
 - Prompt Box 1에 “**Please draw a picture of a beautiful river in Van Gogh style.**” 로 입력하고 실행해 봅니다.
     
-    ![Untitled](Chapter%202%20PartyRock%20%E1%84%80%E1%85%A2%E1%84%8B%E1%85%AD%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8%204538f405f67e4bc89f378dee8f46bd6d/Untitled%2014.png)
+    ![Untitled](./images/Untitled 14.png)
     
     - 그림을 다운로드 받을 수도 있습니다.
     - 그림에 포함되지 않기를 바라는 항목이 있다면 설정에서 negative prompt 에 항목을 추가할 수 있습니다.
