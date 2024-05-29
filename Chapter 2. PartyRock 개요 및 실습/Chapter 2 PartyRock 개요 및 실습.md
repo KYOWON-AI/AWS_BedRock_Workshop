@@ -12,7 +12,7 @@
 - 목록에 있는 외부 IdP (Identity Provider) 에서 선택하여 로그인합니다. 여기서는 자신이 가진 google 계정을 사용하도록 하겠습니다.
     - 아래에서 Sing in with Google 버튼을 클릭합니다.
         
-        ![Untitled](./images/Untitled 1.png)
+        ![Untitled](./images/Untitled%1.png)
         
     - 이어지는 화면에서 Google 계정으로 로그인합니다.
     - 아래 화면에서 계속을 클릭하여 PartyRock 과 Google 계정을 연동합니다.
